@@ -3,7 +3,7 @@ The data was paste using the code of what data contains each file, described by 
 
 It also was perfomed a Join like in SQL to join via, the label activiy and the activity.
 
-
+To extract the data that we need we use the command grep that subsets character strings as a which do to data frames.
 
 
 
